@@ -1,20 +1,67 @@
+<div align="center">
+
+<img src="images/nraged-workshop.png" alt="nRAGED in the workshop" width="100%">
+
 # TheKyleGomes
+### the guy behind **nRAGED**
 
-## whoo?
+*Making unconventional things because an idea got stuck in my head.*
 
-the guy behind nRAGED
+</div>
+
+---
+
+## ᴀʙᴏᴜᴛ ᴍᴇ
 
 I make *unconventional toys*: mostly games, but sometimes web pages, tools and whatever else.
-They might exist to solve a problem, but more likely, they exist to satisfy my curiosity - and hopefully yours too.
+
+They might exist to solve a problem, but more likely, they exist to satisfy my curiosity—and hopefully yours too.
 
 nRAGED is about *tinkering with ideas*, especially the weird ones, and making cool things people (hopefully) feel are worth experiencing.
 
-## whaa?
+---
 
-### Rat:LINK
-Rat:LINK is an arcade style game where you need to solve simple math equations under pressure, in order to keep energy flowing to the city. You are in charge of assisting 9 rat engineers, keep up with their assistence requests and help save the city from darkness.
-[Coming Soon](your-link-here)
+## ᴡᴏʀᴋɪɴɢ ᴏɴ
 
-## whee?
+<table>
+<tr>
+<td width="65%" valign="top">
 
-[GitHub](https://github.com/TheKyleGomes) · [itch.io](https://nraged.itch.io) · [YouTube](https://www.youtube.com/@nRAGED) · [TikTok](https://www.tiktok.com/@thekylegomes) · [X](https://x.com/TheKyleGomes)
+### 🐀 RatLINK
+
+An arcade-style game about keeping energy flowing to a city under pressure.
+
+You’ll assist **nine rat engineers**, keep up with their requests, and solve maths problems before the city goes dark.
+
+**[Coming soon](your-link-here)**
+
+</td>
+<td width="35%" align="center">
+
+<img src="images/ratlink-preview.gif" alt="RatLINK gameplay" width="100%">
+
+</td>
+</tr>
+</table>
+
+---
+
+## ᴛʜɪɴɢꜱ ɪ’ᴠᴇ ᴍᴀᴅᴇ
+
+| Project | What it is |
+| --- | --- |
+| **RatLINK** | An arcade game about maths, pressure, and keeping the city powered. |
+| **More soon** | Other experiments will show up here when they’re ready to share. |
+
+---
+
+## ғɪɴᴅ ᴍᴇ
+
+**Play & projects**  
+[itch.io](https://nraged.itch.io)
+
+**Videos**  
+[YouTube](https://www.youtube.com/@nRAGED)
+
+**Short clips & updates**  
+[TikTok](https://www.tiktok.com/@thekylegomes) · [X](https://x.com/TheKyleGomes)
